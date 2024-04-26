@@ -1,0 +1,9 @@
+{
+  "editor.fontFamily": "JetBrains Mono, PingFang SC",
+  "editor.lineHeight": 24,
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 15,
+  "debug.console.fontFamily": "JetBrains Mono, PingFang SC",
+  "debug.console.lineHeight": 23,
+  "editor.fontLigatures": true
+}
